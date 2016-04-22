@@ -1,7 +1,7 @@
 # nearest
 
-returns the nearest value
--------------------------
+a jquery plugin to return the nearest value from an array
+----------------------------------------------------------
 
 Use like...
  
